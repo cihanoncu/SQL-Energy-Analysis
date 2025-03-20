@@ -10,3 +10,4 @@ Bu proje, enerji piyasasındaki verileri analiz etmek için SQL sorgularını i�
 - `data_cleaning.sql` → Veriyi temizleme
 - `market_analysis.sql` → Fiyat analizleri
 - `trend_forecasting.sql` → Trend tahmini
+![Enerji Analizi Grafiği](grafik.png)
